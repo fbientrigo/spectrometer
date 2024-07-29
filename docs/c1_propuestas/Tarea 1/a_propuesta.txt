@@ -1,0 +1,9 @@
+# 1: Modelar los engranajes usando GF Gear Add on
+	El trabajo es modelar los engranajes que me paso Andres, para hacer facil la pega
+	2hrs?
+	
+# 2: Si sobra tiempo modelar ademas el sensor de luz
+	Como modelarlo usando constrains y diferencias de color?
+	3hrs?
+
+Este trabajo requiere entonces de unos 3 dias de trabajo continuo

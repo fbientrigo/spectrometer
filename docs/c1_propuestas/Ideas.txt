@@ -1,0 +1,3 @@
+analisis de vibracion teniendo los restores:
+	https://blog.wolfram.com/2017/03/02/how-to-use-your-smartphone-for-vibration-analysis-part-1-the-wolfram-language/
+
